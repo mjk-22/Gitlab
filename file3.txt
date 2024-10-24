@@ -39,3 +39,5 @@ to
 create
 a
 conflict
+
+creating a conflict with different files
